@@ -1,1 +1,1 @@
-# doctor-booking-sysstem
+# doctor-booking-system
